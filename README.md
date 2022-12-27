@@ -19,9 +19,10 @@ Other interests include economics, finance, and education.
 ## 📝 Reach me
 - On LinkedIn -> https://www.linkedin.com/in/rhiannon-p-jones/
 
+<!--
+
 ## Tech skills
 
-<!--
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=BE93D4)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=BE93D4)
 ![](https://img.shields.io/badge/Libraries-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=BE93D4)
