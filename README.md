@@ -16,10 +16,7 @@ Other interests include economics, finance, and education.
 - SAS Advanced Programmer Professional Certificate
 
 
-## 📝 Reach me
-- On LinkedIn -> https://www.linkedin.com/in/rhiannon-p-jones/
 
-<!--
 
 ## Tech skills
 
@@ -30,7 +27,11 @@ Other interests include economics, finance, and education.
 ![](https://img.shields.io/badge/Libraries-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=BE93D4)
 ![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=python&logoColor=white&color=BE93D4)
 ![](https://img.shields.io/badge/Editors-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=BE93D4)
--->
+
+
+## 📝 Reach me
+- On LinkedIn -> https://www.linkedin.com/in/rhiannon-p-jones/
+
 
 
 <!--
