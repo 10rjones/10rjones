@@ -1,3 +1,5 @@
+<!--
+
 ## Hi, I'm Rhiannon 👋
 
 I am a data scientist in the UK with experience using __Python__, __SQL__ and SAS for data analysis, visualisation and forecasting. I am also developing my skills in web development and software development.
@@ -32,13 +34,6 @@ Other interests include economics, finance, and education.
 ## 📝 Reach me
 - On LinkedIn -> https://www.linkedin.com/in/rhiannon-p-jones/
 
-
-
-<!--
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10rjones&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=10rjones&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 -->
 <!--
 **10rjones/10rjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
